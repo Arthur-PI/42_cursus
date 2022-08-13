@@ -3,7 +3,7 @@
 ## Overview
 [![apigeon's 42 stats](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/stats?cursusId=21&coalitionId=47)](https://profile.intra.42.fr/users/apigeon)
 
-## Ongoing
+## Ongoing projects
 Minishell: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)](https://github.com/Arthur-PI/42_minishell) </br>
 Philosopher: [![apigeon's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2706469)](https://github.com/Arthur-PI/42_philosophers) </br>
 
@@ -21,4 +21,4 @@ Libft: [![apigeon's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6s7rz920
 ## Piscine
 [![apigeon's 42 stats](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/stats?cursusId=9&coalitionId=piscine)](https://profile.intra.42.fr/users/apigeon)
 
-[Piscine exercices repo](https://github.com/Arthur-PI/42_piscine)
+![Piscine exercices repo](https://github.com/Arthur-PI/42_piscine)
