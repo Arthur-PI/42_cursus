@@ -4,8 +4,8 @@
 [![apigeon's 42 stats](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/stats?cursusId=21&coalitionId=47)]([https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/apigeon))
 
 ## In progress projects
-Minishell [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)](https://github.com/JaeSeoKim/badge42)
-Philosopher [![apigeon's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2706469)](https://github.com/JaeSeoKim/badge42)
+Minishell [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)](https://github.com/JaeSeoKim/badge42) </br>
+Philosopher [![apigeon's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2706469)](https://github.com/JaeSeoKim/badge42) </br>
 
 ## Finished projects
 Exam Rank 03 [![apigeon's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2706471)](https://github.com/JaeSeoKim/badge42)
