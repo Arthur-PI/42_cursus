@@ -4,14 +4,14 @@
 [![apigeon's 42 stats](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/stats?cursusId=21&coalitionId=47)](https://profile.intra.42.fr/users/apigeon)
 
 ## Ongoing projects
-Inception: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)] </br>
-ft_irc: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)] </br>
-Modules CPP: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)] </br>
+Inception: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2585578)](https://github.com/Arthur-PI/42_inception) </br>
+ft_irc: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2863702)](https://github.com/B-ki/ft_irc) </br>
+Modules CPP: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2585578)](https://github.com/Arthur-PI/42_cpp_modules) </br>
 
 ## Finished projects
-NetPractice: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)] </br>
-Cub3D: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)](https://github.com/Arthur-PI/42_cube3d) </br>
-Minishell: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2718869)](https://github.com/Arthur-PI/42_minishell) </br>
+NetPractice: ![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2570109) </br>
+Cub3D: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2454470)](https://github.com/Arthur-PI/42_cube3d) </br>
+Minishell: [![apigeon's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2454470)](https://github.com/Arthur-PI/42_minishell) </br>
 Philosopher: [![apigeon's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2706469)](https://github.com/Arthur-PI/42_philosophers) </br>
 Exam Rank 03: [![apigeon's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2706471)](https://profile.intra.42.fr/users/apigeon) </br>
 Push Swap: [![apigeon's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6s7rz9200060hmie6brz1kh/project/2601434)](https://github.com/Arthur-PI/42_pushswap) </br>
